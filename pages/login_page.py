@@ -4,7 +4,7 @@ from selenium.webdriver.support import expected_conditions as EC
 
 
 class LoginPage:
-    URL = "https://www.saucedemo.com/"
+    URL = "---"
 
     USERNAME = (By.ID, "user-name")
     PASSWORD = (By.ID, "password")
