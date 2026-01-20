@@ -1,7 +1,5 @@
 # SauceDemo Login Tests
 
-Автоматизированные UI-тесты для проверки логина на https://www.saucedemo.com/
-
 ## 🛠 Стек
 - Python 3.10
 - Selenium
